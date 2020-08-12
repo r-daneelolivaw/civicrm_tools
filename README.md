@@ -21,7 +21,7 @@ Due to the current development of CiviCRM for Drupal, these packages are
 not currently required by Composer so you have to install them manually with your
 preferred setup.
 
-Here is [one possible setup](https://colorfield.be/blog/install-civicrm-56x-drupal-86x)
+Here is [one possible setup](https://colorfield.be/blog/install-civicrm-5-with-drupal-8-using-lando)
 that has been used during the development of this module.
 
 ## API Documentation
